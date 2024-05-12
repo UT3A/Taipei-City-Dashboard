@@ -1,0 +1,1169 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4995519, 25.1347742]
+			},
+			"properties": {
+				"addr": "中央北路一段大度路口",
+				"停電原因": "計畫性停電",
+				"處理進度": "處理中"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4651007, 25.1242292]
+			},
+			"properties": {
+				"addr": "中央北路四段５８３巷１０弄２６號",
+				"停電原因": "計畫性停電",
+				"處理進度": "處理中"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4653127, 25.124625]
+			},
+			"properties": {
+				"addr": "中央北路四段５８９號",
+				"停電原因": "計畫性停電",
+				"處理進度": "處理中"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4653127, 25.124625]
+			},
+			"properties": {
+				"addr": "中央北路四段５８９號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4652458, 25.1245371]
+			},
+			"properties": {
+				"addr": "中央北路四段５９１‧５９３號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4652458, 25.1245371]
+			},
+			"properties": {
+				"addr": "中央北路四段５９１號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.465171, 25.124446]
+			},
+			"properties": {
+				"addr": "中央北路四段５９３號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4651231, 25.1244206]
+			},
+			"properties": {
+				"addr": "中央北路四段５９５‧５９７號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4651231, 25.1244206]
+			},
+			"properties": {
+				"addr": "中央北路四段５９５號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4651223, 25.1244485]
+			},
+			"properties": {
+				"addr": "中央北路四段５９７號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5090752, 25.1198272]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段３９５之１號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5091597, 25.1198375]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段３９７之１號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5092442, 25.1198491]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段３９９之１號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5093508, 25.1198521]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段４０１之１號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5094515, 25.1196759]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段４０３號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5094838, 25.119646]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段４０５號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5097561, 25.1195499]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段４１１號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5100226, 25.119415]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段５５４號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5102302, 25.1194033]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段５５６號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5102137, 25.1194826]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段５５８號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5103458, 25.1194009]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段５６０號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5104891, 25.1193897]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段５６２號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5105568, 25.1194475]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段５６４號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5106372, 25.1193807]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段５６６號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5107141, 25.1193694]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段５６８號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5107795, 25.1193139]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段５７０號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5108452, 25.1193528]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段５７２號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.510842, 25.119191]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段５７４號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.510966, 25.119174]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段５７６號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5109451, 25.1192845]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段５７８號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5112093, 25.1192462]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段５８０號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5112093, 25.1192462]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段５８０號之１",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5113012, 25.1192471]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段５８２號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5113012, 25.1192471]
+			},
+			"properties": {
+				"addr": "台北市北投區立農街一段５８２號之１",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4677544, 25.1233369]
+			},
+			"properties": {
+				"addr": "大度路三段高架橋",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4668065, 25.1235622]
+			},
+			"properties": {
+				"addr": "大度路三段２８０號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.466057, 25.123864]
+			},
+			"properties": {
+				"addr": "大度路三段２９６巷３弄１５號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.465967, 25.124031]
+			},
+			"properties": {
+				"addr": "大度路三段２９６巷３弄２１號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.466002, 25.124102]
+			},
+			"properties": {
+				"addr": "大度路三段２９６巷３弄２３號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4661719, 25.1242674]
+			},
+			"properties": {
+				"addr": "大度路三段２９６巷３弄２６號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.46582, 25.1236766]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷１１號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.465965, 25.123771]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷１２號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4659502, 25.1237687]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷１３號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4659284, 25.1238062]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷１５號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4659203, 25.1238197]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷１６號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4658204, 25.1237438]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷１７號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4659085, 25.1238666]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷１８號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4657144, 25.1237428]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷１９號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4658909, 25.1239]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷２０號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4657443, 25.1238073]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷２１號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4658765, 25.1239331]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷２２號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4656781, 25.1238531]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷２３號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4657147, 25.1238742]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷２５號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4658031, 25.124038]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷２６號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4656993, 25.1238807]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷２７號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.465766, 25.123946]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷３０號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4656638, 25.1239012]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷３１號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4656977, 25.1239696]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷３３號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4656475, 25.1240073]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷３５號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4660128, 25.1236253]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷６號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4659813, 25.1236858]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷８號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4659791, 25.1237187]
+			},
+			"properties": {
+				"addr": "大度路三段３００巷９號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4658189, 25.123685]
+			},
+			"properties": {
+				"addr": "大度路三段３０４號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4658189, 25.123685]
+			},
+			"properties": {
+				"addr": "大度路三段３０４號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4655183, 25.1237607]
+			},
+			"properties": {
+				"addr": "大度路三段３１６號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.465037, 25.1240967]
+			},
+			"properties": {
+				"addr": "大度路三段３３６號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3696773, 25.0520782]
+			},
+			"properties": {
+				"addr": "文化三路１２號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3696773, 25.0520782]
+			},
+			"properties": {
+				"addr": "文化三路１２－１號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3696773, 25.0520782]
+			},
+			"properties": {
+				"addr": "文化三路１２－１４號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3696773, 25.0520782]
+			},
+			"properties": {
+				"addr": "文化三路１２－２號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3696773, 25.0520782]
+			},
+			"properties": {
+				"addr": "文化三路１２－３號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3696773, 25.0520782]
+			},
+			"properties": {
+				"addr": "文化三路１２－４號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3609976, 25.0631341]
+			},
+			"properties": {
+				"addr": "文化三路１４號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3612006, 25.0629561]
+			},
+			"properties": {
+				"addr": "文化三路１６號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3612006, 25.0629561]
+			},
+			"properties": {
+				"addr": "文化三路１６－１８號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3612154, 25.0624413]
+			},
+			"properties": {
+				"addr": "文化三路１８號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3611096, 25.0618528]
+			},
+			"properties": {
+				"addr": "文化三路２０號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3611096, 25.0618528]
+			},
+			"properties": {
+				"addr": "文化三路２０－２２號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3610166, 25.0615239]
+			},
+			"properties": {
+				"addr": "文化三路２２號等",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.528537, 25.12608]
+			},
+			"properties": {
+				"addr": "行義路５８巷１１號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52861, 25.126093]
+			},
+			"properties": {
+				"addr": "行義路５８巷１３號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.528701, 25.126095]
+			},
+			"properties": {
+				"addr": "行義路５８巷１５號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.528769, 25.126098]
+			},
+			"properties": {
+				"addr": "行義路５８巷１７號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.528769, 25.126098]
+			},
+			"properties": {
+				"addr": "行義路５８巷１７－１９號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5284921, 25.1259079]
+			},
+			"properties": {
+				"addr": "行義路５８巷１８號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.528881, 25.126099]
+			},
+			"properties": {
+				"addr": "行義路５８巷１９號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5290522, 25.126103]
+			},
+			"properties": {
+				"addr": "行義路５８巷１９－２號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5285701, 25.1258376]
+			},
+			"properties": {
+				"addr": "行義路５８巷２０號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.528888, 25.125911]
+			},
+			"properties": {
+				"addr": "行義路５８巷２４號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5293507, 25.1265445]
+			},
+			"properties": {
+				"addr": "行義路５８巷２５號",
+				"停電原因": "計畫性停電",
+				"處理進度": "已完成"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.528952, 25.12592]
+			},
+			"properties": {
+				"addr": "行義路５８巷２６號",
+				"停電原因": "計畫性停電",
+				"處理進度": "處理中"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5291723, 25.1262136]
+			},
+			"properties": {
+				"addr": "行義路５８巷２７號",
+				"停電原因": "計畫性停電",
+				"處理進度": "處理中"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5289577, 25.1259146]
+			},
+			"properties": {
+				"addr": "行義路５８巷２８號",
+				"停電原因": "計畫性停電",
+				"處理進度": "處理中"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.529319, 25.126122]
+			},
+			"properties": {
+				"addr": "行義路５８巷３１號",
+				"停電原因": "計畫性停電",
+				"處理進度": "處理中"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.529378, 25.126115]
+			},
+			"properties": {
+				"addr": "行義路５８巷３３號",
+				"停電原因": "計畫性停電",
+				"處理進度": "處理中"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5294114, 25.1261094]
+			},
+			"properties": {
+				"addr": "行義路５８巷３５號",
+				"停電原因": "計畫性停電",
+				"處理進度": "處理中"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5284745, 25.126094]
+			},
+			"properties": {
+				"addr": "行義路５８巷９號",
+				"停電原因": "計畫性停電",
+				"處理進度": "處理中"
+			}
+		}
+	]
+}

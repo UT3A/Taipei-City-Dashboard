@@ -1,0 +1,38 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.483955, 25.13599385]
+			},
+			"properties": {
+				"地址": "台北捷運北投機廠太陽光電發電廠",
+				"能源": "太陽能"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5477962, 25.01446762]
+			},
+			"properties": {
+				"地址": "台北自來水長興淨水場太陽光電系統",
+				"能源": "太陽能"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4421393, 24.99346173]
+			},
+			"properties": {
+				"地址": "台北大眾捷運公司-土城機廠(屋頂型)",
+				"能源": "太陽能"
+			}
+		}
+	]
+}
