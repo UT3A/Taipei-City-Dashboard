@@ -17,9 +17,11 @@ import { useDialogStore } from "../store/dialogStore";
 import { useAuthStore } from "../store/authStore";
 
 import HistoryChart from "../components/charts/HistoryChart.vue";
-import ReportIssue from "../components/dialogs/ReportIssue.vue";
+import chooseReport from "../components/dialogs/chooseReport.vue";
 import DownloadData from "../components/dialogs/DownloadData.vue";
 import EmbedComponent from "../components/dialogs/EmbedComponent.vue";
+import ReportIssue from "../components/dialogs/ReportIssue.vue";
+import ReportStopPower from "../components/dialogs/ReportStopPower.vue";
 
 const contentStore = useContentStore();
 const dialogStore = useDialogStore();
@@ -40,6 +42,10 @@ function toggleFavorite(id) {
 	} else {
 		contentStore.favoriteComponent(id);
 	}
+}
+
+function openCHreport() {
+	dialogStore.dialogs.chooseReport = true
 }
 
 onMounted(() => {
@@ -127,13 +133,7 @@ onMounted(() => {
       <div class="componentinfoview-content-control">
         <button
           v-if="authStore.token"
-          @click="
-            dialogStore.showReportIssue(
-              dialogStore.moreInfoContent.id,
-              dialogStore.moreInfoContent.index,
-              dialogStore.moreInfoContent.name
-            )
-          "
+          @click= "openCHreport"
         >
           <span>flag</span>回報
         </button>
@@ -220,7 +220,7 @@ onMounted(() => {
         </div>
       </div>
     </div>
-    <ReportIssue />
+    <chooseReport />
     <DownloadData />
     <EmbedComponent />
   </div>

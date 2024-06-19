@@ -20,6 +20,8 @@ import { useMapStore } from "../store/mapStore";
 import MapContainer from "../components/map/MapContainer.vue";
 import MoreInfo from "../components/dialogs/MoreInfo.vue";
 import ReportIssue from "../components/dialogs/ReportIssue.vue";
+import reportStopPower from "../components/dialogs/ReportStopPower.vue";
+import ChooseReport from "../components/dialogs/chooseReport.vue";
 
 const contentStore = useContentStore();
 const dialogStore = useDialogStore();
@@ -269,7 +271,7 @@ function shouldDisable(map_config) {
 		</div>
 		<MapContainer />
 		<MoreInfo />
-		<ReportIssue />
+		<ChooseReport />
 	</div>
 </template>
 

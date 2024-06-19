@@ -32,8 +32,10 @@ export const useDialogStore = defineStore("dialog", {
 			moreInfo: false,
 			notificationBar: false,
 			reportIssue: false,
+			reportStopPower: false,
 			userSettings: false,
 			embedComponent: false,
+			chooseReport: false,
 		},
 		// Stores the content for notifications
 		notification: {
@@ -87,6 +89,14 @@ export const useDialogStore = defineStore("dialog", {
 		// Show the report issue dialog and enter the id and name of the component of origin
 		showReportIssue(id, index, name) {
 			this.showDialog("reportIssue");
+			this.issue = {
+				id: id,
+				index: index,
+				name: name,
+			};
+		},
+		showReportStopPower(id, index, name) {
+			this.showDialog("reportStopPower");
 			this.issue = {
 				id: id,
 				index: index,

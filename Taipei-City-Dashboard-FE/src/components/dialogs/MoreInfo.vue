@@ -10,6 +10,8 @@ import DialogContainer from "./DialogContainer.vue";
 import HistoryChart from "../charts/HistoryChart.vue";
 import DownloadData from "./DownloadData.vue";
 import EmbedComponent from "./EmbedComponent.vue";
+import ChooseReport from "./chooseReport.vue";
+
 
 const dialogStore = useDialogStore();
 const contentStore = useContentStore();
@@ -25,6 +27,10 @@ function getLinkTag(link, index) {
 	} else {
 		return `資料集 - ${index + 1} (其他)`;
 	}
+}
+
+function openCHreport() {
+	dialogStore.dialogs.chooseReport = true
 }
 </script>
 
@@ -111,13 +117,7 @@ function getLinkTag(link, index) {
         <div class="moreinfo-info-control">
           <button
             v-if="authStore.token"
-            @click="
-              dialogStore.showReportIssue(
-                dialogStore.moreInfoContent.id,
-                dialogStore.moreInfoContent.index,
-                dialogStore.moreInfoContent.name
-              )
-            "
+            @click="openCHreport"
           >
             <span>flag</span>回報
           </button>
@@ -134,6 +134,7 @@ function getLinkTag(link, index) {
             <span>code</span>內嵌
           </button>
         </div>
+		<ChooseReport />
         <DownloadData />
         <EmbedComponent />
       </div>
